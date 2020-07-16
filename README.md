@@ -7,6 +7,10 @@
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/plotly.png" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/seaborn.png" width="200">
 
 ## ScreenShot :camera_flash:
+<img target="_blank" src="https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/blob/master/Charts/Nifty50%20Financial%20Year%202015-16%20Quarterly%20Performance.jpg" width="450">      <img target="_blank" src="https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/blob/master/Charts/Nifty50%20Financial%20Year%202016-17%20Quarterly%20Performance.jpg" width="450">     <img target="_blank" src="https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/blob/master/Charts/Nifty50%20Financial%20Year%202017-18%20Quarterly%20Performance.jpg" width="450">     <img target="_blank" src="https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/blob/master/Charts/Nifty50%20Financial%20Year%202018-19%20Quarterly%20Performance.jpg" width="450">     <img target="_blank" src="https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/blob/master/Charts/Nifty50%20Financial%20Year%202019-20%20Quarterly%20Performance.jpg" width="450">
+
+
+
 
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis/issues/new) by including your search query and the expected result.
